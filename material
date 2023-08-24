@@ -1,0 +1,7 @@
+# LOGICAL CODES 
+# print("Selamat datang di roller coaster!")
+# tinggi = int(input("Berapa tinggi badanmu! "))
+# if tinggi >= 120:
+  # print("Oke! Kamu boleh masuk!")
+# else:
+  # print("Maaf tinggimu kurang, banyak minum susu ya..")
