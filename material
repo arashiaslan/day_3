@@ -5,3 +5,27 @@
   # print("Oke! Kamu boleh masuk!")
 # else:
   # print("Maaf tinggimu kurang, banyak minum susu ya..")
+
+# MULTIPLE IF
+# print("Mau naik Rolkoster?")
+# tinggi = input("berapa tinggimu? ")
+
+# if int(tinggi) >= 120 :
+  # print("Kamu bisa naik Rolkoster")
+  # age = input("berapa umurmu? ")
+  # if int(age) < 7 :
+    # bill = 5000
+    # print("untuk bocil Rp 5000")
+  # elif int(age) < 19 :
+    # bill = 10000
+    # print("Untuk remaja Rp 10000")
+  # else :
+    # bill = 15000
+    # print("Dewasa Rp 15000")
+  # foto = input("Dengan paket foto atau tidak? Y or N. ")
+  # if foto == "Y" :
+    # bill += 5000
+  # print(f"Oke total pembayaranmu sebesar Rp {bill}, Terima kasih")
+  
+# else :
+  # print("kamu blm cukup tinggi")
