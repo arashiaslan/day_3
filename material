@@ -19,6 +19,9 @@
   # elif int(age) < 19 :
     # bill = 10000
     # print("Untuk remaja Rp 10000")
+  # elif int(age) >= 45 and int(age) <= 55 :
+    bill = 0
+    print("Untuk Orangtua GRATIS")
   # else :
     # bill = 15000
     # print("Dewasa Rp 15000")
