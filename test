@@ -65,6 +65,7 @@
 ## Versi Bu Angela
 # bill = 0
 
+# LOVE CALCULATOR TEST
 # if size == "S":
 #   bill += 15
 # elif size == "M":
@@ -81,7 +82,36 @@
 # if extra_cheese == "Y":
 #   bill += 1
   
-    
+# print("Welcome to the Love Calculator!")
+# name1 = input("What is your name? \n")
+# name2 = input("What is their name? \n")
+
+# all_name = name1 + name2
+# lower = all_name .lower()
+
+# t = lower .count("t")
+# r = lower .count("r")
+# u = lower .count("u")
+# e = lower .count("e")
+# total1 = t + r + u + e
+# str1 = str(total1)
+# l = lower .count("l")
+# o = lower .count("o")
+# v = lower .count("v")
+# e = lower .count("e")
+# total2 = l + o + v + e
+# str2 = str(total2)
+# total_last = (str1 + str2)
+# result = int(total_last)
+
+# if result <10 or result > 90 :
+#   print(f"Your score is {result}, you go together like coke and mentos.")
+# elif result >= 40 and result <= 50 :
+#   print(f"Your score is {result}, you are alright together.")
+# else :
+#   print(f"Your score is {result}.")
+
+
 
 
   
